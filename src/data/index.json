@@ -1,0 +1,55 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End Development",
+        "description": "HTML5, CSS3, JavaScript, React JS, Modern CSS Frameworks"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End Development",
+        "description": "Python, Node.js, REST API, SQL, Java, Server Architecture"
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "AI & ML Technologies",
+        "description": " Python, Machine Learning, AI, TensorFlow, PyTorch, Scikit-Learn, Data Science"
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Cloud & Serverless Architecture",
+        "description": "AWS, Serverless, DynamoDB, Amazon Cognito, API Gateway, Lambda, REST API"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "title": "Opinion Spam Detection Using Ensemble Learning",
+        "description": "Developed an ensemble learning solution to detect fraudulent online reviews by leveraging advanced NLP techniques and multiple machine learning classifiers, achieving a notable improvement in accuracy.",
+        "link": "https://github.com/ShashankChandgude/Opinion-Spam-Detection-Using-Ensemble-Leaning"
+      },
+      {
+        "id": "2",
+        "title": "Reinforcement Learning with Human Feedback",
+        "description": "Built a custom RLHF pipeline integrating supervised fine-tuning and Proximal Policy Optimization to align AI-generated responses with human preferences, resulting in improved reward scores.",
+        "link": "https://github.com/ShashankChandgude/rlhf_ai_ml"
+      },
+      {
+        "id": "3",
+        "title": "Conway's Game of Life with TDD",
+        "description": "Implemented Conway's Game of Life using Test Driven Development principles, showcasing robust code quality and a clear demonstration of iterative design through comprehensive testing.",
+        "link": "https://github.com/ShashankChandgude/Conway-s-Game-of-Life-with-TDD"
+      },
+      {
+        "id": "4",
+        "title": "Wild Rydes",
+        "description": "Developed a serverless ride request web application using AWS services, including Lambda and API Gateway, to deliver a scalable, secure, and interactive user experience.",
+        "link": "https://github.com/ShashankChandgude/Wild-Rydes"
+      }
+    ]
+  }
+  
